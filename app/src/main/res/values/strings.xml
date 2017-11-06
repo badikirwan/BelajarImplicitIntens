@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Belajar Implicit Intens</string>
+    <string name="edittext_url">google.com</string>
+    <string name="button_url">open website</string>
+    <string name="location_url">pasuruan</string>
+    <string name="button_loc">open location</string>
+    <string name="button_share">share this text</string>
+    <string name="edittext_loc">text share</string>>
+</resources>
